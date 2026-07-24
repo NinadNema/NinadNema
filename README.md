@@ -1,4 +1,4 @@
-# Hi there, I'm Ninad Nema 👋
+# Hi there, I'm Ninad Nemawarkar 👋
 
 Backend & Full-Stack Developer passionate about building robust, end-to-end applications — from clean API design and database architecture to responsive user interfaces.
 
@@ -44,18 +44,8 @@ Backend & Full-Stack Developer passionate about building robust, end-to-end appl
 | 🎓 **[Student Management API](https://github.com/NinadNema/student-management-api)** | Production-ready RESTful backend service for managing student records with CRUD operations | `Java` `Spring Boot` `REST API` |
 | 🧩 **[DSA Java](https://github.com/NinadNema/DSA-Java)** | Structured repository of Data Structures & Algorithms solutions (LeetCode, practice sets) | `Java` `Algorithms` `Data Structures` |
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NinadNema&show_icons=true&theme=radical&count_private=true" alt="Ninad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinadNema&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
----
 
 ### 📫 Connect With Me
 - 📄 **Resume:** [View My Resume](https://github.com/NinadNema/Ninad-Nemawarkar-Resume)
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/ninad-nemawarkar) *(Add your LinkedIn link here)*
-- ✉️ **Email:** ninad.nemawarkar@email.com *(Add your email here)*
+- 💼 **LinkedIn:** [Connect on LinkedIn](www.linkedin.com/in/ninad-nemawarkar-85834a296)
+- ✉️ **Email:** ninad2800@gmail.com 
